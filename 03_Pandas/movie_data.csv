@@ -1,0 +1,49 @@
+Actor,Film,Year,Genre,BoxOffice,IMDB
+Leonardo DiCaprio,Inception,2010,Sci-Fi,836,8.8
+Leonardo DiCaprio,Titanic,1997,Romance,2200,7.9
+Robert Downey Jr.,Iron Man,2008,Action,585,7.9
+Robert Downey Jr.,Avengers: Endgame,2019,Action,2797,8.4
+Christian Bale,The Dark Knight,2008,Action,1005,9
+Christian Bale,Batman Begins,2005,Action,373,8.2
+Tom Hanks,Forrest Gump,1994,Drama,678,8.8
+Tom Hanks,Cast Away,2000,Drama,429,7.8
+Keanu Reeves,The Matrix,1999,Sci-Fi,466,8.7
+Keanu Reeves,John Wick,2014,Action,86,7.4
+Brad Pitt,Fight Club,1999,Drama,101,8.8
+Brad Pitt,World War Z,2013,Action,540,7
+Johnny Depp,Pirates of the Caribbean,2003,Adventure,654,8.1
+Johnny Depp,Edward Scissorhands,1990,Fantasy,86,7.9
+Will Smith,Men in Black,1997,Sci-Fi,589,7.3
+Will Smith,I Am Legend,2007,Sci-Fi,585,7.2
+Matt Damon,The Martian,2015,Sci-Fi,630,8
+Matt Damon,Bourne Identity,2002,Action,214,7.9
+Chris Evans,Captain America,2011,Action,370,6.9
+Chris Evans,Avengers: Infinity War,2018,Action,2048,8.4
+Scarlett Johansson,Lucy,2014,Sci-Fi,463,6.4
+Scarlett Johansson,Black Widow,2021,Action,379,6.7
+Denzel Washington,Training Day,2001,Crime,104,7.7
+Denzel Washington,The Equalizer,2014,Action,192,7.2
+Morgan Freeman,Shawshank Redemption,1994,Drama,58,9.3
+Morgan Freeman,Se7en,1995,Crime,327,8.6
+Chris Hemsworth,Thor,2011,Fantasy,449,7
+Chris Hemsworth,Extraction,2020,Action,99,6.8
+Hugh Jackman,Logan,2017,Action,619,8.1
+Hugh Jackman,The Prestige,2006,Drama,109,8.5
+Ryan Gosling,Drive,2011,Crime,81,7.8
+Ryan Gosling,La La Land,2016,Musical,446,8
+Mark Wahlberg,The Departed,2006,Crime,291,8.5
+Mark Wahlberg,Ted,2012,Comedy,549,6.9
+Al Pacino,Scarface,1983,Crime,66,8.3
+Al Pacino,The Godfather,1972,Crime,246,9.2
+Robert De Niro,Taxi Driver,1976,Drama,28,8.2
+Robert De Niro,Goodfellas,1990,Crime,47,8.7
+Joaquin Phoenix,Joker,2019,Drama,1074,8.4
+Joaquin Phoenix,Her,2013,Romance,48,8
+Chris Pratt,Guardians of the Galaxy,2014,Sci-Fi,773,8
+Chris Pratt,Jurassic World,2015,Adventure,1671,7
+Henry Cavill,Man of Steel,2013,Action,668,7.1
+Henry Cavill,The Witcher,2019,Fantasy,90,8.2
+Daniel Craig,Skyfall,2012,Action,1108,7.8
+Daniel Craig,Casino Royale,2006,Action,616,8
+Benedict Cumberbatch,Doctor Strange,2016,Fantasy,677,7.5
+Benedict Cumberbatch,The Imitation Game,2014,Drama,233,8
